@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: UFC
-PURPOSE OF PROJECT:
+PROJECT TITLE: UFC McGregor vs. Diaz
+PURPOSE OF PROJECT: For CUHacking 2020
 VERSION or DATE:2020/01/12
-HOW TO START THIS PROJECT:
-AUTHORS:Shaopengliu,Youheng Zhou, Xiaobin Xu,Prabmor 
-USER INSTRUCTIONS: open the Java UFC file and there will be Jframe image showing you what to do with this project
+HOW TO START THIS PROJECT: Double click to run the UFC file
+AUTHORS: Youheng Zhou, Shaopeng Liu, Ralph Liu, Xiaobin Xu, Prabnoor Singh
+USER INSTRUCTIONS: Run the Java UFC file and check the Jframe image showing you what to do with this project
